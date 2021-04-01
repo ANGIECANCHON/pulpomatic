@@ -20,3 +20,10 @@ $ npm run start
 ```
 $ npm run test
 ```
+
+## Execute Documentation - the documentacion is running by
+```
+$ npm run apidoc
+```
+
+## the documentation from the api is in the route... ./Documentacion/index.html
