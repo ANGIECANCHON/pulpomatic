@@ -16,7 +16,7 @@ $ npm i
 $ npm run start
 ```
 
-## Execute test -  to execute test you net initialize server in another terminal and excecute:
+## Execute test -  to execute test you need initialize server in another terminal and excecute:
 ```
 $ npm run test
 ```
