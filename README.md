@@ -9,7 +9,7 @@
 $ npm i
 ```
 
-###You need redis ON
+### You need redis ON
 
 ## Initialize server 
 ```
@@ -26,4 +26,4 @@ $ npm run test
 $ npm run apidoc
 ```
 
-## the documentation from the api is in the route... ./Documentacion/index.html
+## the documentation from the api is in the route: ./documentation/index.html
